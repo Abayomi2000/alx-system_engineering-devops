@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp Abayomi200 hello 
+chgrp school hello 
